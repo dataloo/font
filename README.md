@@ -28,9 +28,12 @@ Place in your web root assets folder, add this to your css file and adjust paths
 
 # Build with
 
+* [Edding 3000](http://www.edding.com/de/organisieren-und-beschriften-zu-hause/produkte/edding-3000-permanentmarker/)
 * [Adobe Capture](https://www.adobe.com/products/capture.html)
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 * [BirdFont](http://birdfont.org/)
+* [ttf2woff](https://github.com/fontello/ttf2woff)
+* [ttf2woff2](https://github.com/nfroidure/ttf2woff2)
 
 # Licence
 Published under
