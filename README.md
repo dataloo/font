@@ -1,5 +1,5 @@
-# The dataloo blog font
-This is the official dataloo.de blog font.
+# Official dataloo.de blog font
+This is the official dataloo.de blog font. It is called: dataloo.
 
 Download the [latest release](https://github.com/dataloo/font/releases).
 
