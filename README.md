@@ -18,10 +18,10 @@ Place in your web root assets folder, add this to your css file and adjust paths
   font-family: 'dataloo';
   src: url("../fonts/dataloo.eot");
   src: url("../fonts/dataloo.eot?#iefix") format("embedded-opentype"), 
-  url("../fonts/dataloo.woff2?v=0.1.4") format("woff2"), 
-  url("../fonts/dataloo.woff?v=0.1.4") format("woff"), 
-  url("../fonts/dataloo.ttf?v=0.1.4") format("truetype"), 
-  url("../fonts/dataloo.svg?v=0.1.4#datalooregular") format("svg");
+  url("../fonts/dataloo.woff2?v=0.1.6") format("woff2"), 
+  url("../fonts/dataloo.woff?v=0.1.6") format("woff"), 
+  url("../fonts/dataloo.ttf?v=0.1.6") format("truetype"), 
+  url("../fonts/dataloo.svg?v=0.1.6#datalooregular") format("svg");
   font-weight: normal;
   font-style: normal; }
 ```
@@ -33,7 +33,7 @@ Place in your web root assets folder, add this to your css file and adjust paths
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 * [BirdFont](http://birdfont.org/)
 * [ttf2woff](https://github.com/fontello/ttf2woff)
-* [ttf2woff2](https://github.com/nfroidure/ttf2woff2)
+* [woff2_compress](https://github.com/google/woff2)
 
 # Licence
 Published under
